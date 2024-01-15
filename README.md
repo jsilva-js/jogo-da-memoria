@@ -45,3 +45,5 @@ Welcome to Memory Game - Emoji Edition! This simple and fun game was created usi
 ## Enjoy the Game!
 
 Have fun playing Memory Game - Emoji Edition! Test your memory skills and challenge your friends to beat your best time. If you encounter any issues or have suggestions for improvement, feel free to reach out. Happy matching!
+
+![Game](./src/images/game.png)
