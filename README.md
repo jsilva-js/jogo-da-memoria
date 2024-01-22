@@ -21,17 +21,15 @@ Encontre todos os pares para alcançar a vitória!
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-username/seu-repositorio.git
+   git clone https://github.com/jsilva-js/jogo-memoria-emojis.git
    ```
 
 2. **Navegue até o Diretório:**
    ```bash
-   cd seu-repositorio
+   cd jogo-memoria-emojis
    ```
 
 3. **Abra o Jogo:**
    - Abra o arquivo `index.html` em seu navegador.
-
-Divirta-se jogando o Jogo da Memória - Edição Emoji! 🎮
 
 ![Game](./src/images/interface.png)
