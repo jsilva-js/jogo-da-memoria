@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #383E92;
+    background-color: #0F4F86;
     user-select: none;
 }
 
@@ -14,24 +14,20 @@ body {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    background: linear-gradient(325deg, #E52223 00%, #9A2485 100%);
+    background-color: #fff;
     padding: 40px 60px;
-    border: 4px solid #000;
 }
 
 h2 {
     font-size: 3em;
-    color: #000;
-    text-transform: uppercase;
+    color: #0F4F86;
     letter-spacing: 0.1em;
-    font-weight: 700;
 }
 
 button {
     background-color: fff;
     padding: 10px 20px;
     width: 100%;
-    text-transform: uppercase;
     border: none;
     font-size: 1.5em;
     cursor: pointer;
@@ -39,8 +35,8 @@ button {
 }
 
 .reset:focus {
-    color: #9A2485;
-    background-color: #000;
+    color: #fff;
+    background-color: #0F4F86;
 }
 
 .game {
@@ -71,7 +67,7 @@ button {
     content: "";
     position: absolute;
     inset: 0;
-    background: #000;
+    background: #0F4F86;
     transition: 0.25s;
     transform: rotateY(0deg);
     backface-visibility: hidden;

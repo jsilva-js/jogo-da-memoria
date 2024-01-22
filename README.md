@@ -1,25 +1,37 @@
 # Jogo da Memória - Emojis
 
-## Visão geral
+Bem-vindo ao Jogo da Memória - Edição Emoji! Um desafio simples e divertido criado com HTML, CSS e JavaScript. Teste sua memória combinando pares de emojis escondidos atrás de cartões. Vire as cartas e descubra todos os pares correspondentes para se consagrar vitorioso!
 
-Bem-vindo ao Jogo da Memória - Edição Emoji! Este jogo simples e divertido foi criado usando HTML, CSS e JavaScript. Teste sua memória combinando pares de emojis escondidos atrás de cartões. Vire as cartas e encontre todos os pares correspondentes para ganhar o jogo.
+## Como Jogar
 
-## Como jogar
+### Objetivo:
+Encontre todos os pares de emojis, virando as cartas.
 
-1. **Objetivo:**
-   - Encontre todos os pares de emojis virando as cartas.
+### Jogabilidade:
+1. Clique em uma carta para revelar o emoji.
+2. Clique em outra carta para encontrar seu par correspondente.
+3. Em caso de correspondência, as cartas permanecerão viradas para cima.
+4. Se os emojis não combinarem, as cartas virarão novamente.
+5. Continue esse processo até descobrir todos os pares.
 
-2. **Preparação do Jogo:**
-   - Abra o arquivo `index.html` em seu navegador da web.
+### Vencendo o Jogo:
+Encontre todos os pares para alcançar a vitória!
 
-3. **Jogabilidade:**
-   - Clique em uma carta para revelar o emoji.
-   - Clique em outra carta para encontrar seu par correspondente.
-   - Se os emojis combinarem, as cartas permanecerão viradas para cima.
-   - Se os emojis não combinarem, as cartas virarão novamente.
-   - Repita esse processo até encontrar todos os pares.
+## Executando o Jogo Localmente
 
-4. **Vencendo o Jogo:**
-   - Encontre todos os pares para vencer o jogo!
+1. **Clone o Repositório:**
+   ```bash
+   git clone https://github.com/seu-username/seu-repositorio.git
+   ```
+
+2. **Navegue até o Diretório:**
+   ```bash
+   cd seu-repositorio
+   ```
+
+3. **Abra o Jogo:**
+   - Abra o arquivo `index.html` em seu navegador.
+
+Divirta-se jogando o Jogo da Memória - Edição Emoji! 🎮
 
 ![Game](./src/images/game.png)
