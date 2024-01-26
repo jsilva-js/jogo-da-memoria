@@ -34,4 +34,4 @@ Encontre todos os pares para alcançar a vitória!
 
 Divirta-se jogando o Jogo da Memória - Edição Emoji! 🎮
 
-![Game](./src/images/interface.png)
+![Game](./src/images/game.png)
