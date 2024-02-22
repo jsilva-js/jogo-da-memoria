@@ -55,7 +55,7 @@ function checkMatch(){
     openCards = [];
 
     if(document.querySelectorAll(".boxMatch").length === emojis.length){
-        alert("Victory!");
+        alert("Parabéns, você encontrou todos os pares!");
     }
 
 }
