@@ -1,13 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Joti One', serif;
+}
+
 body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
-    background-color: #F7BB13;
     user-select: none;
+    background-color: #F7BB13;
 }
 
 .container {
+    padding: 50px 0;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.game-content {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -17,7 +30,6 @@ body {
     background-color: #0F4F86;
     padding: 40px 60px;
     box-shadow: 2px 4px #000;
-
 }
 
 h2 {
