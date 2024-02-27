@@ -3,7 +3,7 @@
     padding: 0;
     outline: none;
     box-sizing: border-box;
-    font-family: 'Joti One', serif;
+    font-family: "Press Start 2P", system-ui;
 }
 
 body {
@@ -32,27 +32,24 @@ body {
     gap: 30px;
     background-color: #0F4F86;
     padding: 40px 60px;
-    box-shadow: 2px 4px #000;
+    border: 4px solid #000;
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 2em;
     color: #fff;
     letter-spacing: 0.1em;
-    text-shadow: 2px 4px #000;
+    text-shadow: 4px 5px #000;
 }
 
 button {
-    font-family: serif;
-    text-transform: uppercase;
     background-color: #0f3455;
     color: #fff;
-    padding: 10px 20px;
-    width: 100%;
+    padding: 20px 20px;
+    width: 80%;
     border: none;
     font-size: 1em;
     cursor: pointer;
-    font-weight: 400px;
 }
 
 .reset:focus {
