@@ -116,6 +116,10 @@ button {
         max-width: 300px;
     }
 
+    button {
+        padding: 10px 5px;
+    }
+
     .item {
         width: 60px;
         height: 60px;
