@@ -10,14 +10,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
+    margin: 0;
     user-select: none;
     background-color: #F7BB13;
 }
 
 .container {
-    padding: 50px 0;
-    max-width: 1440px;
-    margin: 0 auto;
+    padding: 20px;
+    max-width: 700px;
+    width: 100%;
+    text-align: center;
 }
 
 .game-content {
@@ -103,13 +106,13 @@ button {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 680px) {
     .container {
         padding: 10px;
     }
 
     h2 {
-        font-size: 1.5em;
+        font-size: 20px;
     }
 
     .game {
