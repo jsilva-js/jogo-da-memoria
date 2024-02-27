@@ -1,15 +1,15 @@
 # Jogo da Memória
 
-Bem-vindo ao Jogo da Memória Emoji! 😁
-
-Este é um pequeno projeto de jogo da memória desenvolvido com JavaScript, HTML e CSS. Teste suas habilidades de memória enquanto se diverte com emojis!
+Bem-vindo ao Jogo da Memória Emojis 😁<br>
+Este é um pequeno projeto de jogo da memória desenvolvido com JavaScript, HTML e CSS.
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Acesse o jogo online pelo link: https://jsilva-js.github.io/jogo-da-memoria/
 2. Você verá uma grade de cartas viradas para baixo. Clique em duas cartas para revelar seus emojis.
 3. Tente encontrar pares correspondentes de emojis clicando em duas cartas de cada vez.
 4. O jogo continua até que todas as cartas sejam combinadas.
+5. Você pode reiniciar o jogo a qualquer momento clicando no botão "Recomeçar".
 
 ## Instruções de Desenvolvimento
 
@@ -23,7 +23,8 @@ Se você deseja contribuir para o desenvolvimento deste jogo, siga estas instru�
 
 ## Capturas de Tela
 
-![Captura de Tela](./src/images/game.png)
+![Captura de Tela](./src/images/game1.png)
+![Captura de Tela](./src/images/game2.png)
 
 ## Autor
 
