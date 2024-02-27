@@ -1,3 +1,10 @@
+function exibirTextoNaTela(tag, texto) {
+    let campo = document.querySelector(tag);
+    campo.innerHTML = texto;
+}
+
+exibirTextoNaTela('h1','Jogo da Memória');
+
 const emojis = [
 
     "😁",
@@ -55,7 +62,7 @@ function checkMatch(){
     openCards = [];
 
     if(document.querySelectorAll(".boxMatch").length === emojis.length){
-        alert("Parabéns, você encontrou todos os pares!");
+        exibirTextoNaTela('h1','Você venceu!');
     }
 
 }
