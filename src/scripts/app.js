@@ -26,6 +26,7 @@ const emojis = [
 ];
 
 let openCards = [];
+let tentativas = 0;
 
 let shuffleEmojis = emojis.sort(() => (Math.random() > 0.5 ? 2 : -1));
 
@@ -59,10 +60,12 @@ function checkMatch(){
         openCards[1].classList.remove("boxOpen");
     }
 
+    tentativas++;
+
     openCards = [];
 
     if(document.querySelectorAll(".boxMatch").length === emojis.length){
-        exibirTextoNaTela('h1','Você venceu!');
+        exibirTextoNaTela('h1',`Você venceu com ${tentativas} tentativas.`);
     }
 
 }
