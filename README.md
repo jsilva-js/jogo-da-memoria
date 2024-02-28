@@ -1,6 +1,6 @@
 # Jogo da Memória
 
-Bem-vindo ao Jogo da Memória Emojis 😁<br>
+Bem-vindo ao meu Jogo da Memória (com Emojis 😁😎😝)<br>
 Este é um pequeno projeto de jogo da memória desenvolvido com JavaScript, HTML e CSS.
 
 ## Como Jogar
