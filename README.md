@@ -5,7 +5,7 @@ Este é um pequeno projeto de jogo da memória desenvolvido com JavaScript, HTML
 
 ## Como Jogar
 
-1. Acesse o jogo online pelo link: https://jsilva-js.github.io/jogo-da-memoria/
+1. Acesse o jogo online pelo link: [Jogo da Memória](https://jsilva-js.github.io/jogo-da-memoria/)
 2. Você verá uma grade de cartas viradas para baixo. Clique em duas cartas para revelar seus emojis.
 3. Tente encontrar pares correspondentes de emojis clicando em duas cartas de cada vez.
 4. O jogo continua até que todas as cartas sejam combinadas.
